@@ -10,3 +10,4 @@
 - Itsukushima Jinja
 - Atsuta Jingu
 - Koami Shrine
+- Wasureta-Jinja
